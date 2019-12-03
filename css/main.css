@@ -106,6 +106,9 @@ div.navigation a:hover {
   font-size: 10px;
   height: 50px;
   width: 100%;
+
+  position: fixed;
+  bottom: 0;
 }
 .footer ul.left {
   float: left;
